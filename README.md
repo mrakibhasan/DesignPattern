@@ -10,20 +10,23 @@ The Design pattern are based on the following principle:
 The design pattern make the code more flexible, reusable and maintainable. It is the most important part because java internally follows design patterns. 
  
   Creational:
-  1. Singleton pattern:
-  2. Prototype Pattern:
-  3. Factory Pattern:
+  
+           1. Singleton pattern:
+ 	   2. Prototype Pattern:
+  	   3. Factory Pattern:
  
   Structural:
-  4. Adapter Pattern:
-  5. Bridge Pattern:
-  6. Composite Pattern:
-  7. Facade Pattern:
-  8. Proxy pattern:
-  9. Decorator pattern: 
   
-  Behavioural: 
-  10. Observer pattern: 
+	  4. Adapter Pattern:
+	  5. Bridge Pattern:
+	  6. Composite Pattern:
+ 	  7. Facade Pattern:
+ 	  8. Proxy pattern:
+ 	  9. Decorator pattern: 
+  
+   Behavioural: 
+   
+ 	 10. Observer pattern: 
   
  ----------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
