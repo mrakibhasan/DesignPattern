@@ -1,4 +1,4 @@
-# DesignPattern
+# DesignPatternDev01
 Design patterns are well proved solution problem specific task.design patterns are programming language independent strategies 
 for solving the common object-oriented design problems. That means, a design pattern represents an idea, not a particular implementation.
 
